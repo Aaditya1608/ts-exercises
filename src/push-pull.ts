@@ -1,2 +1,1 @@
-console.log('Testing push and pull');
-//edited from GitHub
+console.log('Remote edit : from GitHub');
